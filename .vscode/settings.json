@@ -1,0 +1,5 @@
+{
+  "python-envs.workspaceSearchPaths": ["/tmp/cb_emc_calc"],
+  "python.defaultInterpreterPath": "/tmp/cb_emc_calc/.venv/bin/python",
+  "python.terminal.activateEnvironment": true
+}
